@@ -1,0 +1,23 @@
+{
+  "name": "com.0x11.MirrorVR",
+  "version": "0.1",
+  "displayName": "MirrorVR - 0x11",
+  "description": "A VR system for Mirror Networking, that makes it easier to develop VR games with Mirror in Unity.",
+  "unity": "2022.3",
+  "unityRelease": "0",
+  "documentationUrl": "https://discord.gg/0byte",
+  "changelogUrl": "https://discord.gg/0byte",
+  "licensesUrl": "https://discord.gg/0byte",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+ },
+ "keywords": [
+    "Mirror",
+    "VR",
+    "Networking"
+  ],
+  "author": {
+    "name": "0x11",
+    "email": "0x11@lethalape2.com"
+  }
+}
